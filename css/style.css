@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+  }
+  #app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .hidden {
+    display: none;
+  }
+  
