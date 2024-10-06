@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:8080/api/v1"; // WILL BE USING AS A BASE URL
+const API_BASE_URL = "https://librarymanagement-1-qzbs.onrender.com//api/v1"; // WILL BE USING AS A BASE URL
 
 const api = {
   request: async function (url, method = "GET", data = null, auth = false) {
